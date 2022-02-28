@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container{
+    width: 100%;
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+p{
+    font-size: 12px;
+    margin: 20px 0;
+}
+
+p span{
+    color: #3367D6;
+    cursor: pointer;
+}
